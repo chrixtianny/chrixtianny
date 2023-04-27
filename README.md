@@ -1,6 +1,6 @@
 ## <p align="center">Oi gente!</p>
 <p align="center">🎓Sou a Chris e sou estudante de Sistemas de Informação no IFAL desde agosto de 2022. Sou iniciante na programação.</p>
-<p align="center">🚀Fui participante da Segunda Edição do Bootcamp Social Tech da EMBRAER, de setembro de 2022 a janeiro de 2023, e atualmente participo do Programa Desenvolve do Grupo Boticário, e do Curso de Curta Duração de Desenvolvimento de Aplicativos - Framework Flutter, do IFAL, ambos iniciados em janeiro de 2023.</p>
+<p align="center">🚀Fui participante da Segunda Edição do Bootcamp Social Tech da EMBRAER, de setembro de 2022 a janeiro de 2023, e atualmente participo do Programa Desenvolve do Grupo Boticário iniciado em janeiro de 2023.</p>
 
 
 ##
@@ -17,8 +17,8 @@
 ##
 
 <div align="center"><br>
-  <img height=160em src=https://github-readme-stats.vercel.app/api?username=chrixtianny&show_icons=true&theme=outrun>
-  <img height=160em src=https://github-readme-stats.vercel.app/api/top-langs/?username=chrixtianny&theme=outrun>
+  <img height=180em src=https://github-readme-stats.vercel.app/api?username=chrixtianny&show_icons=true&theme=outrun>
+  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=chrixtianny&layout=compact&theme=outrun>
 </div>
 
 ##
