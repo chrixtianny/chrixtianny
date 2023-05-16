@@ -1,6 +1,14 @@
 ## <p align="center">Oi gente!</p>
-<p align="center">🎓Sou a Chris e sou estudante de Sistemas de Informação no IFAL desde agosto de 2022. Sou iniciante na programação.</p>
-<p align="center">🚀Fui participante da Segunda Edição do Bootcamp Social Tech da EMBRAER, de setembro de 2022 a janeiro de 2023, e atualmente participo do Programa Desenvolve do Grupo Boticário iniciado em janeiro de 2023.</p>
+### Olá, sou a Chris, estudante de Sistemas de Informação no IFAL 🎓 desde agosto de 2022. 
+#### Como uma entusiasta da tecnologia, estou iniciando minha jornada na programação e me apaixonando por ela aos poucos desde que entrei na área em 2022.
+
+##### Participei da Segunda Edição do Bootcamp Social Tech da EMBRAER, uma experiência enriquecedora que ocorreu de setembro de 2022 a janeiro de 2023. Através desse programa, aprimorei minhas habilidades em Python de forma significativa (e pretendo, um dia, aplicar isto para causar um impacto positivo na sociedade).
+
+##### Atualmente, estou participando do Programa Desenvolve do Grupo Boticário, iniciado em janeiro de 2023. Nesse programa, estou adquirindo conhecimentos em desenvolvimento FullStack e me aprofundando em tópicos como JavaScript, HTML/CSS, Node.js, Git e GitHub, TypeScript e muito mais.
+
+#### Meu GitHub é um espaço onde compartilho meus projetos, códigos e contribuições para a comunidade de desenvolvimento. Estou aberta a oportunidades de colaboração, aprendizado e crescimento. Se você está buscando um(a) parceiro(a) de desenvolvimento ou gostaria de trocar ideias e conhecimentos, fique à vontade para entrar em contato.
+
+### Acredito que é possível impulsionar a tecnologia e construir soluções inovadoras que impactem o mundo positivamente, desde que busquemos isso juntos. Bora? 🚀
 
 
 ##
