@@ -1,10 +1,10 @@
 ## <p align="center">Oi gente!</p>
 ### Olá, sou a Chris, estudante de Sistemas de Informação no IFAL 🎓 desde agosto de 2022. 
-#### Como uma entusiasta da tecnologia, estou iniciando minha jornada na programação e me apaixonando por ela aos poucos desde que entrei na área em 2022.
+#### Como uma entusiasta da tecnologia, estou iniciando minha jornada na programação e me apaixonando por ela aos poucos desde que entrei na área em 2022. Atualmente sou estagiária no <a href="https://projetoalex.cc/">Projeto Alex</a>, e aprendo diariamente! Tenho utilizado Vue.js e Strapi para o estágio.
 
 ##### Participei da Segunda Edição do Bootcamp Social Tech da EMBRAER, uma experiência enriquecedora que ocorreu de setembro de 2022 a janeiro de 2023. Através desse programa, aprimorei minhas habilidades em Python de forma significativa (e pretendo, um dia, aplicar isto para causar um impacto positivo na sociedade).
 
-##### Atualmente, estou participando do Programa Desenvolve do Grupo Boticário, iniciado em janeiro de 2023. Nesse programa, estou adquirindo conhecimentos em desenvolvimento FullStack e me aprofundando em tópicos como JavaScript, HTML/CSS, Node.js, Git e GitHub, TypeScript e muito mais.
+##### Participei do Programa Desenvolve do Grupo Boticário, iniciado em janeiro de 2023 e finalizado em julho deste mesmo ano. Adquiri conhecimentos em desenvolvimento FullStack e me aprofundei em tópicos como JavaScript, HTML/CSS, Node.js, Git e GitHub, TypeScript e muito mais.
 
 #### Meu GitHub é um espaço onde compartilho meus projetos, códigos e contribuições para a comunidade de desenvolvimento. Estou aberta a oportunidades de colaboração, aprendizado e crescimento. Se você está buscando um(a) parceiro(a) de desenvolvimento ou gostaria de trocar ideias e conhecimentos, fique à vontade para entrar em contato.
 
@@ -20,6 +20,9 @@
   <img align="center" height="30" width="40" alt="Chris-Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="Chris-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="Chris-Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" height="30" width="40" alt="Chris-Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" height="30" width="30" alt="Chris-Strapi" src="https://www.svgrepo.com/show/354399/strapi-icon.svg">
+  
 </div><br>
 
 ##
