@@ -1,6 +1,6 @@
 ## <p align="center">Oi gente!</p>
 ### Olá, sou a Chris, estudante de Sistemas de Informação no IFAL 🎓 desde agosto de 2022. 
-#### Como uma entusiasta da tecnologia, estou iniciando minha jornada na programação e me apaixonando por ela aos poucos desde que entrei na área em 2022. Atualmente sou estagiária no <a href="https://projetoalex.cc/">Projeto Alex</a>, e aprendo diariamente! Tenho utilizado Vue.js e Strapi para o estágio.
+#### Como uma entusiasta da tecnologia, estou iniciando minha jornada na programação e me apaixonando por ela aos poucos desde que entrei na área em 2022. Atualmente sou estagiária no <a href="https://projetoalex.cc/">Projeto Alex</a>, e aprendo diariamente! Tenho utilizado Vue.js, Strapi e tenho aprendido a fazer testes unitários para o estágio.
 
 ##### Participei da Segunda Edição do Bootcamp Social Tech da EMBRAER, uma experiência enriquecedora que ocorreu de setembro de 2022 a janeiro de 2023. Através desse programa, aprimorei minhas habilidades em Python de forma significativa (e pretendo, um dia, aplicar isto para causar um impacto positivo na sociedade).
 
