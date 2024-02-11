@@ -28,7 +28,6 @@
 ##
 
 <div align="center"><br>
-  <img height=180em src=https://github-readme-stats.vercel.app/api?username=chrixtianny&show_icons=true&theme=jolly>
   <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=chrixtianny&layout=compact&theme=jolly>
 </div>
 
