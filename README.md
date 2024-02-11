@@ -1,8 +1,8 @@
 ## <p align="center">Oi gente!</p>
-### Olá, sou a Chris, estudante de Sistemas de Informação no IFAL 🎓 desde agosto de 2022. 
-#### Como uma entusiasta da tecnologia, estou iniciando minha jornada na programação e me apaixonando por ela aos poucos desde que entrei na área em 2022. Atualmente sou estagiária no <a href="https://projetoalex.cc/">Projeto Alex</a>, e aprendo diariamente! Tenho utilizado Vue.js, Strapi e tenho aprendido a fazer testes unitários para o estágio.
+### Olá, sou a Chris, estudante de Sistemas de Informação no IFAL 🎓
+#### Como uma entusiasta da tecnologia, estou iniciando minha jornada na programação e me apaixonando por ela aos poucos desde que entrei na área alguns anos atrás. Atualmente sou desenvolvedora Front-End no <a href="https://projetoalex.cc/">Projeto Alex</a>. Tenho utilizado Vue.js, Vuetify e Strapi diariamente.
 
-##### Participei da Segunda Edição do Bootcamp Social Tech da EMBRAER, uma experiência enriquecedora que ocorreu de setembro de 2022 a janeiro de 2023. Através desse programa, aprimorei minhas habilidades em Python de forma significativa (e pretendo, um dia, aplicar isto para causar um impacto positivo na sociedade).
+##### Participei da Segunda Edição do Bootcamp Social Tech da EMBRAER, uma experiência enriquecedora que ocorreu de setembro de 2022 a janeiro de 2023. Através desse programa, aprimorei minhas habilidades em Python de forma significativa.
 
 ##### Participei do Programa Desenvolve do Grupo Boticário, iniciado em janeiro de 2023 e finalizado em julho deste mesmo ano. Adquiri conhecimentos em desenvolvimento FullStack e me aprofundei em tópicos como JavaScript, HTML/CSS, Node.js, Git e GitHub, TypeScript e muito mais.
 
@@ -13,7 +13,7 @@
 
 ##
 <div style="display: inline_block;" align="center">
-<h4><p align="center">💻⚙ Tecnologias e ferramentas:</p></h4><br>
+<h4><p align="center">💻⚙ Stacks:</p></h4><br>
   <img align="center" height="30" width="40" alt="Chris-PY" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" height="30" width="40" alt="Chris-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img <img align="center" height="30" width="40" alt="Chris-NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
