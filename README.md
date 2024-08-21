@@ -1,49 +1,14 @@
-## <p align="center">Oi gente!</p>
-### Olá, sou a Chris, estudante de Sistemas de Informação no IFAL 🎓
-#### Como uma entusiasta da tecnologia, estou iniciando minha jornada na programação e me apaixonando por ela aos poucos desde que entrei na área alguns anos atrás. Atualmente sou Desenvolvedora Especialista em Chatbots na Weni AI.
 
-#### Estou sempre buscando me atualizar. Além dos cursos livres, leituras e uso dos materiais disponíveis na internet, eu já...
+Sou desenvolvedora front-end com foco em **React e Vue.js**, além de especialista em chatbots, atuando na Weni. Ao longo dos anos, tenho construído uma sólida base em desenvolvimento web e tecnologias de chatbot, sempre buscando unir inovação e funcionalidade em cada projeto.
 
-##### Participei da Segunda Edição do Bootcamp Social Tech da EMBRAER, uma experiência enriquecedora que ocorreu de setembro de 2022 a janeiro de 2023. Através desse programa, aprimorei minhas habilidades em Python de forma significativa.
+Minha trajetória na programação começou com um interesse crescente por tecnologia, o que me levou a mergulhar em diferentes cursos e programas de capacitação. Participei de iniciativas como o **Bootcamp Social Tech da EMBRAER** e o **Programa Desenvolve do Grupo Boticário**, onde aprofundei meus conhecimentos em desenvolvimento full-stack, incluindo JavaScript, HTML/CSS, Node.js, e TypeScript. Além disso, me desafiei em eventos como o **Socialthon** da Minsait no CSBC 2023, onde busquei desenvolver, em equipe, um jogo em realidade virtual, mesmo sem experiência prévia na área.
 
-##### Participei do Programa Desenvolve do Grupo Boticário, iniciado em janeiro de 2023 e finalizado em julho deste mesmo ano. Adquiri conhecimentos em desenvolvimento FullStack e me aprofundei em tópicos como JavaScript, HTML/CSS, Node.js, Git e GitHub, TypeScript e muito mais.
+Hoje, na Weni trabalho criando **chatbots que transformam a comunicação digital**, trazendo soluções inteligentes e personalizadas para empresas e seus clientes, principalmente no segmento varejo. Além disso, continuo a explorar e aplicar boas práticas em desenvolvimento front-end, sempre com um olhar atento à acessibilidade e à experiência do usuário.
 
-##### Participei do Socialthon, um evento no estilo Hackathon, só para mulheres, realizado dentro do Congresso da Sociedade Brasileira de Computação (CSBC) 2023. Foi focado no desenvolvimento de um jogo em realidade virtual para o metaverso. O jogo devia ter fins educacionais. À época, decidi participar mesmo com zero conhecimento em realidade virtual e metaverso, e ainda assim foi muito divertido e uma ótima forma de obter conhecimento sobre os temas.
+Também dedico parte do meu tempo a projetos que me permitem conectar tecnologia e propósito. Além da minha atuação técnica, sou ativa no Centro Acadêmico do meu curso no IFAL, onde busco ajudar outros alunos a acessarem mais conhecimento e oportunidades. Esse engajamento me levou a ser **embaixadora do Roga DX 2024**, o maior evento de tecnologia da região Nordeste. Além disso, **estou coordenando um projeto de extensão que irá desenvolver sites gerenciadores para ONGs de causa animal**, um projeto que une minhas habilidades técnicas com meu desejo de contribuir para causas que importam.
 
-#### Aqui compartilho meus projetos, códigos e contribuições para a comunidade de desenvolvimento. Estou aberta a oportunidades de colaboração, aprendizado e crescimento. Se você está buscando um(a) parceiro(a) de desenvolvimento ou gostaria de trocar ideias e conhecimentos, ou se eu puder te ajudar de alguma forma 🙌🏾, fique à vontade para entrar em contato.
+> Acredito que a tecnologia tem o poder de criar soluções que impactam
+> positivamente o mundo. Se você está interessado em colaborar, trocar
+> ideias ou desenvolver algo inovador, estou sempre aberta a novas
+> conexões e desafios. Vamos juntos transformar ideias em realidade!
 
-### Acredito que é possível impulsionar a tecnologia e construir soluções inovadoras que impactem o mundo positivamente, desde que busquemos isso juntos. Bora? 🚀
-
-
-##
-<div style="display: inline_block;" align="center">
-<h4><p align="center">💻⚙ Stacks:</p></h4><br>
-
-  <img align="center" height="30" width="40" alt="Chris-PY" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" alt="Chris-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" alt="Chris-NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" width="30" height="30" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Chris-stack-artificial-intelligence" />
-  <img align="center" width="30" height="30" src="https://img.icons8.com/color/30/message-bot.png" alt="message-bot"/>
-  <img align="center" height="30" width="40" alt="Chris-Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="Chris-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="Chris-Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" height="30" width="40" alt="Chris-Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" height="30" width="30" alt="Chris-Strapi" src="https://www.svgrepo.com/show/354399/strapi-icon.svg">
-  
-</div><br>
-
-##
-
-<div align="center"><br>
-  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=chrixtianny&layout=compact&theme=jolly>
-</div>
-
-##
-
-<br>
-<div align="center">
-<a href="https://www.linkedin.com/in/christianny-silva-dos-santos-76910969/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<br>
-</div>
-<br>
-<p align="center"><img  height=130 width=140 src="https://cdn.discordapp.com/attachments/835323095451303936/1069859193764446209/giphy.gif"></p>
