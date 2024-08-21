@@ -1,5 +1,5 @@
 
-Sou desenvolvedora front-end com foco em **React e Vue.js**, além de especialista em chatbots, atuando na Weni. Ao longo dos anos, tenho construído uma sólida base em desenvolvimento web e tecnologias de chatbot, sempre buscando unir inovação e funcionalidade em cada projeto.
+Sou desenvolvedora front-end com foco em **React e Vue.js** e especialista em chatbots, atuando como Desenvolvedora de Chatbots na Weni. Ao longo dos anos, tenho construído uma sólida base em desenvolvimento web e tecnologias de chatbot, sempre buscando unir inovação e funcionalidade em cada projeto.
 
 Minha trajetória na programação começou com um interesse crescente por tecnologia, o que me levou a mergulhar em diferentes cursos e programas de capacitação. Participei de iniciativas como o **Bootcamp Social Tech da EMBRAER** e o **Programa Desenvolve do Grupo Boticário**, onde aprofundei meus conhecimentos em desenvolvimento full-stack, incluindo JavaScript, HTML/CSS, Node.js, e TypeScript. Além disso, me desafiei em eventos como o **Socialthon** da Minsait no CSBC 2023, onde busquei desenvolver, em equipe, um jogo em realidade virtual, mesmo sem experiência prévia na área.
 
