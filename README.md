@@ -1,7 +1,7 @@
 
-##### Sou desenvolvedora front-end com foco em **React e Vue.js** e sou Desenvolvedora de Chatbots na Inspiria! Ao longo dos anos, tenho construído uma sólida base em desenvolvimento web e chatbots, sempre buscando inovar em cada projeto.
+##### Sou desenvolvedora front-end com foco em **React e Vue.js** e sou Desenvolvedora de Chatbots na Blip! Ao longo dos anos, tenho construído uma sólida base em desenvolvimento web e chatbots, sempre buscando evoluir em cada projeto.
 
-##### Hoje, na Inspiria, trabalho criando **chatbots que transformam a comunicação**, trazendo soluções inteligentes e personalizadas para organizações e para os usuários! Iniciei em projetos no segmento varejo, mas hoje também atuo com organizações internacionais como o IRC, o que é incrível, pois meu background conta com uma graduação em Relações Internacionais!
+##### Hoje, trabalho criando **contatos inteligentes** que transformam a comunicação, trazendo soluções personalizadas e humanizadas para organizações e para os usuários finais!
 
 ##### Também dedico parte do meu tempo a projetos que me permitem conectar tecnologia com causas que são importantes para mim. 
 
